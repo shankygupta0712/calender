@@ -3,7 +3,7 @@
 #include<windows.h>
 
 /**********************************************
-    Project: Calender Application
+    Project: Calender Application Java
     Language : C
     @Author : Bibek Subedi, Tribhuvan University
     Project Type : Mini
